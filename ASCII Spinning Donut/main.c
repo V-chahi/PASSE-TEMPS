@@ -1,5 +1,5 @@
 //  main.c
-//  Spinning Donut
+//  ASCII Spinning Donut
 //  Created by Alternative Astraunault on 25/01/2023.
 // 
 
